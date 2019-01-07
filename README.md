@@ -13,8 +13,9 @@ Testing:
 -------
 1. few example test images are included in the testimg folder.
 
-3.Run Test_All.py, test the binarization of an input image. 
+2. Run Test_All.py, test the binarization of an input image. 
 
+3. Please download the pre-trained model from here (google drive link), and put it under ./checkpoints/
 
 Acknowledgments:
 -------
