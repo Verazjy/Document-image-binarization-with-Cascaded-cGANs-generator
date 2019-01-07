@@ -15,7 +15,7 @@ Testing:
 
 2. Run Test_All.py, test the binarization of an input image. 
 
-3. Please download the pre-trained model from here (google drive link), and put it under ./checkpoints/
+3. Please download the pre-trained model from [Spring-data-jpa here](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html) (google drive link), and put it under ./checkpoints/
 
 Acknowledgments:
 -------
