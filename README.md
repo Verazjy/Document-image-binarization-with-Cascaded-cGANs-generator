@@ -19,6 +19,15 @@ Testing:
 
 4. [Executable file link](https://pan.baidu.com/s/1x6w_qqbK8lsHcmcnaUXT2Q) ：exe 
 
+Training:
+-------
+1. Please download the public binarization datasets
+
+2. Run combine_A_and_B_sub.py to get the sub training data.
+
+3. Run train.py to train a new model. 
+
+
 Acknowledgments:
 -------
 This code borrows heavily from pytorch-CycleGAN-and-pix2pix.
